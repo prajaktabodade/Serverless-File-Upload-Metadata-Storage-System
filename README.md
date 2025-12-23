@@ -26,7 +26,7 @@ Files are stored in S3, while metadata is stored in DynamoDB.
 
 
 ## 🔗 GitHub Repository
-[Azure VM Deployment Project](https://github.com/yourusername/azure-vm-deployment)
+[Serverless-File-Upload-Metadata-Storage-System Project](https://github.com/prajaktabodade/Serverless-File-Upload-Metadata-Storage-System/edit/main/README.md)
 
 ## 📄 License
 This project is licensed under the MIT License
@@ -34,5 +34,5 @@ This project is licensed under the MIT License
 
 ## Screenshots
 
-![VM Deployment](vm-deployment.png.jfif)
-![VM Monitoring](vm-deployment.png.jfif)
+![lambda-code.png](lambda-code.png.jfif)
+![s3-uploaded-file.png](s3-uploaded-file.png.jfif)
